@@ -10,12 +10,21 @@
 </p>
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=Em%20Andamento&color=blue&style=for-the-badge" />
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge" />
 </p>
+
+<br><br>
+---
+### 🔷 Links para visitar o site:
+
+Link: [Tropa Concursos - Landing page](https://tropaconcursos.com.br/)
+<br><br>
+Link: [Tropa Concursos - Página de captura](https://tropaconcursos.com.br/capture)
+
 
 <br>
 
-### 🤔 Padrões que usei:
+### 🤔 Padrões que usamos:
 
 | tipo de commit   | palavra-chave |
 | ---------------- | :-----------: |
@@ -24,7 +33,7 @@
 | correção de bugs |      fix      |
 | refatoração      |     refac     |
 
-<h2>🔷 Autores:</h2>
+<h3>🔷 Programadores:</h3>
 <div>
   <table>
     <tr>
