@@ -1,4 +1,6 @@
-<h1 align="center">Tropa Concurso - Djalma Brito</h1>
+<div align="center" style="margin:20px;">
+  <img src="assets/logo.png" style="height:95px;width:434px;"/>
+</div>
 
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -13,18 +15,21 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge" />
 </p>
 
-<br><br>
----
-### 🔷 Links para visitar o site:
+<p align="justify">
+  O site Tropa Concursos é uma plataforma dedicada à preparação de candidatos para os concursos da <b>Polícia Militar do Ceará (PMCE)</b>. Sob a orientação do Professor <b>Djalma Brito</b>, aprovado em seis concursos públicos, incluindo os de Soldado da PMCE e Policial Penal do Ceará, o site oferece um curso completo e atualizado focado nas disciplinas de <b>Direito Penal Militar</b> e <b>Direito Processual Penal</b>, oferecendo um plano de estudos personalizado, videoaulas teóricas, listas de exercícios, material didático em PDF e simulados no modelo da prova.
+</p>
 
-Link: [Tropa Concursos - Landing page](https://tropaconcursos.com.br/)
+---
+### 🔷 Links para visitar o site
+
+* [Tropa Concursos - Landing Page](https://tropaconcursos.com.br/)
 <br><br>
-Link: [Tropa Concursos - Página de captura](https://tropaconcursos.com.br/capture)
+* [Tropa Concursos - Página de Captura](https://tropaconcursos.com.br/capture)
 
 
 <br>
 
-### 🤔 Padrões que usamos:
+### 🤔 Padrões que usamos
 
 | tipo de commit   | palavra-chave |
 | ---------------- | :-----------: |
@@ -33,7 +38,9 @@ Link: [Tropa Concursos - Página de captura](https://tropaconcursos.com.br/capt
 | correção de bugs |      fix      |
 | refatoração      |     refac     |
 
-<h3>🔷 Programadores:</h3>
+<br>
+
+<h3>👨‍💻 Programadores</h3>
 <div>
   <table>
     <tr>
