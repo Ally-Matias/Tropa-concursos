@@ -2,6 +2,8 @@
   <img src="assets/logo.png" style="height:95px;width:434px;"/>
 </div>
 
+<br>
+
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img align="center" src="https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5"/>
