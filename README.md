@@ -18,7 +18,7 @@
 </p>
 
 <p align="justify">
-  O site Tropa Concursos é uma plataforma dedicada à preparação de candidatos para os concursos da <b>Polícia Militar do Ceará (PMCE)</b>. Sob a orientação do Professor <b>Djalma Brito</b>, aprovado em seis concursos públicos, incluindo os de Soldado da PMCE e Policial Penal do Ceará, o site oferece um curso completo e atualizado focado nas disciplinas de <b>Direito Penal Militar</b> e <b>Direito Processual Penal</b>, oferecendo um plano de estudos personalizado, videoaulas teóricas, listas de exercícios, material didático em PDF e simulados no modelo da prova.
+  O site Tropa Concursos é uma landing page dedicada à apresentar o melhor curso de preparação de candidatos para os concursos da <b>Polícia Militar do Ceará (PMCE)</b>! Sob a orientação do Professor <b>Djalma Brito</b>, aprovado em seis concursos públicos, incluindo os de Soldado da PMCE e Policial Penal do Ceará, o site é uma porta de entrada para um curso completo e atualizado focado nas disciplinas de <b>Direito Penal Militar</b> e <b>Direito Processual Penal</b>, que oferece um plano de estudos personalizado, videoaulas teóricas, listas de exercícios, material didático em PDF e simulados no modelo da prova.
 </p>
 
 ---
